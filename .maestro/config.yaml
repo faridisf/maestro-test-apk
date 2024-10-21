@@ -2,7 +2,7 @@
 flows:
   - "**"
 includeTags:
-  - AT2
+  - AT3
 excludeTags:
   - login
   - AT11
@@ -34,4 +34,4 @@ excludeTags:
 executionOrder:
     continueOnFailure: false
     flowsOrder:
-        - AT2
+        - AT3
